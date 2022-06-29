@@ -17,7 +17,7 @@ ______
 
 <p> This project will address five questions about the movie industry:<br>
 <br>1. What genre of movies are the most popular based on user ratings? 
-<br>2. What are the top grossing movie genres?
+<br>2. Does movie runtimes affect profitability?
 <br>3. What movie content rating based on genre is the most popular?
 <br>4. What are the top grossing movie studios?
 </br>
@@ -40,10 +40,14 @@ ______
 
 <p> Drama and comedy has the highest fresh rating </p>
 
+<img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/runtimes_gross_value.png" width="600" height="500">
+
+<p> Most genres have a movie runtime between 80 to 140 minutes. Majority of the films do not gross more than a hundred million dollars. Though, films that do gross more than a hundred milion have a runtime between 100 to 180 minutes. </p>
+
 <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/movie_content_most_fresh_rating.png" width="600" height="600">
 <p> Not Rated and Rated G movies has the highest fresh rating </p>
  
- <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_movie_genres.png" width="600" height="1000">
+ <img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/top_grossing_movie_genres.png" width="600" height="1000">
  <p> Adventure is the top grossing move genre </p>
  
   <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_studios.png" width="600" height="1000">
@@ -56,8 +60,8 @@ ______
   ### Content Ratings
   <p> The highest rated movies are either not rated or a G Rating. Microsoft should focus on creating unrated and G-rated movies. </p>
   
-  ### Studios 
-  <p> The top grossing studio is Buena Vista which handles the distribution of films produced by Walt Disney Studios. Though Microsoft wants to create their own studio, it’s worth looking to see who their competitors are. </p>
+  ### Runtimes 
+  <p> The highest-grossing films have a runtime of just over 2 hours. But, the ideal runtimelegnth of a movie is 100 to 160 minutes. </p>
 
 # For More Information 
 <p> For more information, contact Brittney Nitta-Lee at bnittalee@gmail.com 
