@@ -49,9 +49,6 @@ ______
  
  <img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/top_grossing_movie_genres.png" width="600" height="1000">
  <p> Adventure is the top grossing move genre </p>
- 
-  <img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/top_grossing_studios.png" width="600" height="1000">
-  <p> Buena Vista is the top grossing movie studio </p>
   
   # Recommendations 
   ### Genres
