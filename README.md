@@ -36,15 +36,15 @@ ______
 # Results
 
 
-<img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/genres_most_fresh_rating.png" width="600" height="500">
+<img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/genres_high_user_rating.png" width="600" height="500">
 
 <p> Drama and comedy has the highest fresh rating </p>
 
-<img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/runtimes_gross_value.png" width="600" height="500">
+<img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/runtimes_gross_values.png" width="600" height="500">
 
 <p> Most genres have a movie runtime between 80 to 140 minutes. Majority of the films do not gross more than a hundred million dollars. Though, films that do gross more than a hundred milion have a runtime between 100 to 180 minutes. </p>
 
-<img src = "https://github.com/bnittalee/dsc_phase1/blob/main/Images/movie_content_most_fresh_rating.png" width="600" height="600">
+<img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/popular_movie_content_rating.png" width="600" height="600">
 <p> Not Rated and Rated G movies has the highest fresh rating </p>
  
  <img src = "https://github.com/bnittalee/Movie_analysis/blob/main/Images/top_grossing_movie_genres.png" width="600" height="1000">
